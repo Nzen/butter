@@ -6,7 +6,7 @@ actually stares at code all day.
 Inspiration: [I can't believe it's not butter](http://dotshare.it/dots/672/)
 for color base, Irwin/x0r for the highlighted strings.
 
-![](screenshot.png)
+![](screenshot.png#1)
 
 ## Installation
 
