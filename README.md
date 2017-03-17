@@ -1,5 +1,7 @@
-Butter, a low-contrast color scheme for Terminal.app/Vim, made by
-someone who reads code all day.
+# Butter
+
+A low-contrast color scheme for reading code all day. Supports
+Terminal.app/Vim.
 
 ![](screenshot.png#1)
 
